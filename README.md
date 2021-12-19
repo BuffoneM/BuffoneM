@@ -1,7 +1,12 @@
-# Hello! 😁
+# Hello World! 😁
 
 I'm Michael Buffone and I'm a 2021 undergraduate from Algoma University! I studied Computer Science for four years and starting to work on some personal projects!
 
+# About Me! ☕
+
+I find myself spending a lot of time either tinkering on new computer builds, at the gym pursuing an active lifestyle, or out in the outdoors hiking. 
+
+I have hobbies all over the place!
 <!--
 **BuffoneM/BuffoneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

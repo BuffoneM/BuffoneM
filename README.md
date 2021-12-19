@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="75%" height="75%" src="https://github.com/BuffoneM/BuffoneM/blob/2a4b7ed6585ce5818232fe3bade42864ded86d86/Some%20photos/IMG_4265.JPG">
-</p>
-
 # Hello World! 😁
 
 I'm Michael Buffone and I'm a 2021 undergraduate from Algoma University. I studied Computer Science for four years and am preparing to enter the workforce, as well as starting to work on some personal projects!

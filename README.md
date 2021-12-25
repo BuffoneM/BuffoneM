@@ -1,4 +1,4 @@
-# Hello World! 😁
+# Hello, world! 😁
 
 I'm Michael Buffone and I'm a 2021 undergraduate from Algoma University. I studied Computer Science for four years and am preparing to enter the workforce, as well as starting to work on some personal projects!
 
